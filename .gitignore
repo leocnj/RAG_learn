@@ -161,3 +161,4 @@ cython_debug/
 
 cslcli.conf
 rag-using-llama-2-langchain-and-chromadb.ipynb
+input/va/*
